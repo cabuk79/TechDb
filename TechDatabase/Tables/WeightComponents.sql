@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[WeightComponents]
+(
+	[Code] NVARCHAR(10) NOT NULL PRIMARY KEY,
+	[Description] NVARCHAR(MAX) NULL,
+	[DateAdded] DATETIME DEFAULT CURRENT_TIMESTAMP NOT NULL,
+	[Updated] DATETIME NULL
+)

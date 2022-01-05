@@ -1,0 +1,10 @@
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\bin\Debug\TechDatabase.dacpac
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\bin\Debug\TechDatabase.dll
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\bin\Debug\TechDatabase.pdb
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\TechDatabase.dll
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\TechDatabase.pdb
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\Model.xml
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\refactor.xml
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\postdeploy.sql
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\predeploy.sql
+C:\Users\cabuk\source\repos\ProjectsTechDB\TechDatabase\obj\Debug\TechDatabase.sqlproj.AssemblyReference.cache
